@@ -246,6 +246,8 @@ footer div section:last-child img {
   }
   header nav {
     flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
   }
   header nav img {
     width: 120px;
